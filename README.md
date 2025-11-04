@@ -8,4 +8,30 @@
 - Vascaíno
 
 ## Estudando em..
-https://camo.githubusercontent.com/ebe0d1c7160f3845c251ae204ba90b58c8106a0a0e31abc61405c7359e00ca38/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
+/>
+
+<img
+    align="left"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png"
+/>
